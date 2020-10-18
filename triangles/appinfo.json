@@ -1,0 +1,10 @@
+{
+    "vendor": "FiS",
+    "largeIcon": "largeIcon.png",
+    "icon": "icon.png",
+    "main": "index.html",
+    "id": "name.fis.triangles",
+    "title": "triangles",
+    "type": "web",
+    "version": "0.0.1"
+}
