@@ -11369,7 +11369,7 @@
 		var floatVertexTextures = vertexTextures && floatFragmentTextures;
 		var maxSamples = isWebGL2 ? gl.getParameter(36183) : 0;
 		return {
-			isWebGL2: isWebGL2,
+			isWebGL2: false, //isWebGL2,
 			getMaxAnisotropy: getMaxAnisotropy,
 			getMaxPrecision: getMaxPrecision,
 			precision: precision,
